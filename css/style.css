@@ -264,6 +264,8 @@ a:focus {
     position: relative;
     text-align: right;
     padding-right: 75px;
+    width: 85rem;
+    margin: 0 0 -9rem -25rem;
 }
 
 .hero .hero-image img {
